@@ -94,7 +94,7 @@
 <br clear="both">
 
 <div align="center">
-  <img align="right" height="200" src="https://i.imgur.com/KOj3yzY.gif"  />
+  <img height="200" src="https://i.imgur.com/hSQzzqb.gif"  />
 </div>
 
 ###
