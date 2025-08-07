@@ -61,14 +61,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.imgur.com/hSQzzqb.gif"  />
-</div>
-
-###
-
 <div align="left">
   <a href="mailto:akbar.falah.w@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -96,6 +88,14 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KagamineFal/KagamineFal/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/hSQzzqb.gif"  />
+</div>
 
 ###
 
