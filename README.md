@@ -91,13 +91,10 @@
 
 ###
 
-
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/hSQzzqb.gif"  />
 </div>
-
-###
 
 ###
