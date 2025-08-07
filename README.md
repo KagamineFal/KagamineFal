@@ -1,5 +1,5 @@
 <h3 align="center">Hi, My Name Is Akbar Falah Widyasmoro (>^^)></h3>
-<p align="left">Someone who likes to explore new things and enjoy interesting things ^_^</p>
+<h6 align="left">Someone who likes to explore new things and enjoy interesting things ^_^</h6>
 
 ###
 
